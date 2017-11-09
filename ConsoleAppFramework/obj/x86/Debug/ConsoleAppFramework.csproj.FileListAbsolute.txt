@@ -1,0 +1,5 @@
+/Users/mikhail/Projects/ConsoleAppFramework/ConsoleAppFramework/obj/x86/Debug/ConsoleAppFramework.csproj.CoreCompileInputs.cache
+/Users/mikhail/Projects/ConsoleAppFramework/ConsoleAppFramework/bin/Debug/ConsoleAppFramework.exe
+/Users/mikhail/Projects/ConsoleAppFramework/ConsoleAppFramework/bin/Debug/ConsoleAppFramework.pdb
+/Users/mikhail/Projects/ConsoleAppFramework/ConsoleAppFramework/obj/x86/Debug/ConsoleAppFramework.exe
+/Users/mikhail/Projects/ConsoleAppFramework/ConsoleAppFramework/obj/x86/Debug/ConsoleAppFramework.pdb
