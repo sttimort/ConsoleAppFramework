@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{821DBBFE-7F21-4FF1-87A6-6CF2A00BC1BA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppFramework/UI/UIContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppFramework/MyOwnCommand.cs">
     <Files>
       <File FileName="ConsoleAppFramework/UI/MainUIContext.cs" Line="4" Column="1" />
       <File FileName="ConsoleAppFramework/UI/UIParser.cs" Line="50" Column="61" />
       <File FileName="ConsoleAppFramework/Commands/ExitCommand.cs" Line="14" Column="2" />
-      <File FileName="ConsoleAppFramework/UI/UIContext.cs" Line="72" Column="1" />
+      <File FileName="ConsoleAppFramework/UI/UIContext.cs" Line="42" Column="41" />
+      <File FileName="ConsoleAppFramework/MyOwnCommand.cs" Line="14" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.ConsoleAppFramework PreferredExecutionTarget="MonoDevelop.Default" />
